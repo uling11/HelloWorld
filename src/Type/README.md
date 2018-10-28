@@ -1,5 +1,3 @@
-HelloWorld Say hello to JAVA
-==========
 1. 基本数据类型 (Primitive Types)
 
 | Type   | Size   | Wrapper Type  | Example | Note   |
