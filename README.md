@@ -15,6 +15,17 @@
   - [ ] Loop (for, while) （循环）
 - [ ] Access Scope
   - [ ] public, protected, private, friendly
+- [ ] Initialization (初始化)
+  - [ ] constructor (构造器)
+    - [ ] default constructor ()
+    - [ ] method overloading 
+    - [ ] this
+  - [ ] order (初始化顺序)
+    - [ ] var ()
+    - [ ] static
+    - [ ] constructor
+  - [ ] array initialize (数组)
+  - [ ] enumerated types ( 枚举类)
 - [ ] Container （集合类）
   - [ ] 
 ## SQL
