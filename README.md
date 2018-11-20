@@ -90,6 +90,7 @@
 - [ ] 3xx 重定向
 - [ ] 4xx 请求错误
 - [ ] 5xx 服务器错误
+https://www.cnblogs.com/shanyou/archive/2012/05/06/2486134.html 
 ## OTHER
 --------
 - [ ] git and github
