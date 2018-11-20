@@ -84,6 +84,12 @@
 - [ ] UI Automation (Selenium) （界面自动化）
 - [ ] API Automation （Postman） (接口自动化）
 
+### HTTP
+--------
+- [ ] 2XX 成功
+- [ ] 3xx 重定向
+- [ ] 4xx 请求错误
+- [ ] 5xx 服务器错误
 ## OTHER
 --------
 - [ ] git and github
